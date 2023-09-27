@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  <a href="https://career.habr.com/vlkazmin">
+      <img src="https://img.shields.io/badge/Habr_Career-red?style=for-the-badge&logo=habr&logoColor=white&color=%235973de&link=https%3A%2F%2Fcareer.habr.com%2Fvlkazmin" />
   </a>
   <a href="https://orel.hh.ru/resume/37fcf8a3ff0c5f25740039ed1f7477366e6254">
       <img alt="Static Badge" src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&link=https%3A%2F%2Forel.hh.ru%2Fresume%2F37fcf8a3ff0c5f25740039ed1f7477366e6254">
